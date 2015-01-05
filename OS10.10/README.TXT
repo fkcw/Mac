@@ -1,0 +1,1 @@
+This folder for Mac OS 10.10
